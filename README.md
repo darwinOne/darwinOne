@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Darwin
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Tensorflow, Pytorch, Python
+- 🌱 I’m currently learning Tensorflow, Pytorch, and Python
 - 📫 How to reach me @dwin.dw
 
 <!---
